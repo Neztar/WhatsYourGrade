@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">What is Your Grade</string> //ที่ผมไม่ได้ใส่ ' ที่ What เพราะถ้าใส่ผมจะเกิดปัญหา cannot resolve symbol r
+    <string name="input">Enter your name and score</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="find_grade">Find Grade</string>
+    <string name="exit">Exit</string>
+</resources>
